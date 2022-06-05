@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "loki",
+    "email": "loki@gmail.com",
+    "phone": "987654321",
+    "address": "afv k-404"
+  },
+  {
+    "id": 2,
+    "name": "lokesh",
+    "email": "lokesh@gmail.com",
+    "phone": "987654321",
+    "address": "afv k-402"
+  },
+  {
+    "id": 3,
+    "name": "lokinder",
+    "email": "lokinder@gmail.com",
+    "phone": "987654321",
+    "address": "afv k-403"
+  }
+]
